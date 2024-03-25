@@ -1,6 +1,6 @@
 <?php
 
-namespace Larodel\Assets;
+namespace Larodel\Cms\Assets;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;
