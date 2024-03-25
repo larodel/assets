@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Larodel\\Assets": "src/"
+            "Larodel\\Assets\\": "src/"
         }
     }
 }
