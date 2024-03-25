@@ -1,0 +1,25 @@
+{
+    "name": "larodel/assets",
+    "description": "assets for create cms",
+    "version": "1.0.0",
+    "license": "MIT",
+    "keywords": ["Laravel", "Laravel-assets", "Laravel assets",".env editor"],
+    "authors": [
+        {
+            "name": "Hadi Dehdari",
+            "email": "hadi.dehdari@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "homepage": "https://github.com/larodel/assets",
+    "require": {
+        "php": "^8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Larodel\\Assets": "src/"
+        }
+    }
+}
